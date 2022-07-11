@@ -1,17 +1,10 @@
-.upcomng-mves {
+.upcoming-movies {
   text-align: center;
   background-color: #ff9999;
   padding: 8px;
   font-size: 1rem;
 }
-.root {
-    display: flex;
-    flex-grow: 1;
-    background-color: #ff9999;
-}
-.gridListUpcomingMovies {
-    display: flex;
-    flex-wrap: nowrap;
-    transform: translateZ(0);
-    width: 100%;
-}
+.movie-poster {
+  height: 100%;
+  width: auto;
+} 
